@@ -35,7 +35,8 @@ I'm an assiduous student of technology, I love what I do!
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"> 
 
 
-<b>My GitHub Stats</b>
+###My GitHub Stats
+
 <picture>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniosalome)](https://github.com/juniosalome/github-readme-stats)[![Junio Salome's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=juniosalome&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/juniosalome/github-readme-stats#gh-light-mode-only)
 </picture>
