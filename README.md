@@ -36,10 +36,11 @@ I'm an assiduous student of technology, I love what I do!
 
 
 ### My GitHub Stats
+
 <div>
-<img src="ttps://github-readme-stats.vercel.app/api?username=juniosalome&show_icons=true&theme=default#gh-light-mode-only">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniosalome&layout=compact&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=juniosalome&show_icons=true&theme=midnight-purple">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniosalome&layout=compact&theme=midnight-purple">
 
 </div>
 
